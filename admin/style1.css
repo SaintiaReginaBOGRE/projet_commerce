@@ -1,0 +1,13 @@
+.container-fluid{
+    background-color: aliceblue;
+}
+
+nav{
+    background-color: beige;
+}
+.btnbtn-blockmb-4{
+    background-color: gray;
+}
+.marg{
+    display: flex;
+}

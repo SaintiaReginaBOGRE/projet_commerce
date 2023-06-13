@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(211, 244, 244);
+}
+nav{
+    background-color: beige;
+}
+
+
+  .image {
+    flex: 1;
+    text-align: right;
+    max-width:  300px;
+    
+}
+.card-img-top{
+    width: 150px;
+    height: 150px;
+}
+.card{
+    border: none;
+}
+    
